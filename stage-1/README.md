@@ -14,4 +14,6 @@ There is a list of our latest customers [here](./latest-customers.txt)
 
 Please write a function in your chosen language to produce the .txt file.
 
-Once complete, push this repository to your own Github profile, raise a merge request and send Customer Support (ClearRoute hiring manager) the URL.
+Once complete, create a feature branch, commit your created .txt file solution, and push this repository to your own Github profile, raise a pull/merge request, finally send Customer Support (ClearRoute hiring manager) the URL.
+
+Please do not raise a pull request against our original repository! 
